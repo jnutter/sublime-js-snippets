@@ -14,18 +14,7 @@ Install via package control: http://wbond.net/sublime_packages/community Search 
 
 ### Mac OS X
 
-    git clone git://github.com/jprichardson/sublime-js-snippets.git ~/Library/Application Support/Sublime Text 2/Packages/JavaScript
-
-
-### Linux
-
-    git clone git://github.com/jprichardson/sublime-js-snippets.git ~/.config/sublime-text-2/Packages/JavaScript
-
-
-### Windows
-
-    git clone git://github.com/jprichardson/sublime-js-snippets.git %userprofile%\AppData\Roaming\Sublime Text 2\Packages\JavaScript
-
+    git clone git://github.com/jnutter/sublime-js-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/JavaScript
 
 
 Vanilla Snippets
